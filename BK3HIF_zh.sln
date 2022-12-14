@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BK3HIF_zh", "BK3HIF_zh\BK3HIF_zh.csproj", "{CD4EA32E-1609-47D4-8148-26695557735A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BK3HIF_zh_excel", "BK3HIF_zh_excel\BK3HIF_zh_excel.csproj", "{A32B18B4-2CBB-4745-886B-A16FD39C7121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4EA32E-1609-47D4-8148-26695557735A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4EA32E-1609-47D4-8148-26695557735A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4EA32E-1609-47D4-8148-26695557735A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4EA32E-1609-47D4-8148-26695557735A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A32B18B4-2CBB-4745-886B-A16FD39C7121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32B18B4-2CBB-4745-886B-A16FD39C7121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32B18B4-2CBB-4745-886B-A16FD39C7121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32B18B4-2CBB-4745-886B-A16FD39C7121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8EE8719-874D-46E4-B673-95B2846012F0}
+	EndGlobalSection
+EndGlobal
